@@ -21,6 +21,7 @@ export default function AboutSection() {
 const Container = styled.div`
   background-color: #e4e4e4;
   padding: 2rem 1rem;
+  width: 100%;
   h2 {
     color: #202020;
     font-size: 2rem;
