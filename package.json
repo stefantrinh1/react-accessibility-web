@@ -2,6 +2,7 @@
   "name": "react-accessibility-web",
   "version": "0.1.0",
   "private": true,
+  "author": "Stefan Trinh",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -13,6 +14,14 @@
     "styled-components": "^5.3.3",
     "web-vitals": "^1.0.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefantrinh1/react-accessibility-web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stefantrinh1/react-accessibility-web/issues"
+  },
+  "homepage": "https://www.react-accessibility-widget.netlify.app",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
